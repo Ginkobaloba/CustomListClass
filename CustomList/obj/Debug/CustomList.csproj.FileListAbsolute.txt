@@ -1,0 +1,12 @@
+C:\Users\Drama\AppData\Local\Temporary Projects\CustomList\bin\Debug\CustomList.exe.config
+C:\Users\Drama\AppData\Local\Temporary Projects\CustomList\obj\Debug\CustomList.csprojResolveAssemblyReference.cache
+C:\Users\Drama\AppData\Local\Temporary Projects\CustomList\bin\Debug\CustomList.exe
+C:\Users\Drama\AppData\Local\Temporary Projects\CustomList\bin\Debug\CustomList.pdb
+C:\Users\Drama\AppData\Local\Temporary Projects\CustomList\obj\Debug\CustomList.exe
+C:\Users\Drama\AppData\Local\Temporary Projects\CustomList\obj\Debug\CustomList.pdb
+C:\Users\Drama\Desktop\devcodecampprojects\LemonadeStand\CustomList\CustomList\bin\Debug\CustomList.exe.config
+C:\Users\Drama\Desktop\devcodecampprojects\LemonadeStand\CustomList\CustomList\bin\Debug\CustomList.exe
+C:\Users\Drama\Desktop\devcodecampprojects\LemonadeStand\CustomList\CustomList\bin\Debug\CustomList.pdb
+C:\Users\Drama\Desktop\devcodecampprojects\LemonadeStand\CustomList\CustomList\obj\Debug\CustomList.exe
+C:\Users\Drama\Desktop\devcodecampprojects\LemonadeStand\CustomList\CustomList\obj\Debug\CustomList.pdb
+C:\Users\Drama\Desktop\devcodecampprojects\LemonadeStand\CustomList\CustomList\obj\Debug\CustomList.csprojResolveAssemblyReference.cache
