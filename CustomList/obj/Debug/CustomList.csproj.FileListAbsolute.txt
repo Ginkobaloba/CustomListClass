@@ -10,3 +10,6 @@ C:\Users\Drama\Desktop\devcodecampprojects\LemonadeStand\CustomList\CustomList\b
 C:\Users\Drama\Desktop\devcodecampprojects\LemonadeStand\CustomList\CustomList\obj\Debug\CustomList.exe
 C:\Users\Drama\Desktop\devcodecampprojects\LemonadeStand\CustomList\CustomList\obj\Debug\CustomList.pdb
 C:\Users\Drama\Desktop\devcodecampprojects\LemonadeStand\CustomList\CustomList\obj\Debug\CustomList.csprojResolveAssemblyReference.cache
+C:\Users\Drama\Desktop\devcodecampprojects\CustomList\CustomList\bin\Debug\CustomList.exe.config
+C:\Users\Drama\Desktop\devcodecampprojects\CustomList\CustomList\obj\Debug\CustomList.exe
+C:\Users\Drama\Desktop\devcodecampprojects\CustomList\CustomList\obj\Debug\CustomList.pdb
